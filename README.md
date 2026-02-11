@@ -1,4 +1,4 @@
-# 🐧 hi, i'm zwe (meowveloper)
+# 🐧 hi, i'm zwe khant aung (meowveloper)
 
 **frontend consultant by day // zig & nix enthusiast by night**
 
@@ -20,7 +20,7 @@ I build things that are fast, type-safe, and occasionally make mechanical keyboa
 ---
 
 ### 📊 my rhythm
-![Zwe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meowveloper&show_icons=true&theme=tokyonight&hide_border=true&display_format=v2)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 > "If it uses more than 900MB of RAM at idle, is it even an OS?"
 
