@@ -2,12 +2,12 @@
 > TypeScript, Zig, Nix, Linux<br/>
 > Full Stack Developer & Systems Enthusiast<br/>
 > Bangkok, Thailand | +66822918935 | meowveloper.dev@gmail.com<br/>
-> Github: [meowveloper](github.com/meowveloper) 
+> Github: [meowveloper](https://github.com/meowveloper) 
 
 ## About Me
 Full Stack Engineer with a Systems Mindset I build high-level web applications with **NuxtJS** and **TypeScript**, while exploring low-level performance with Zig. I don’t just use frameworks; I care about how software interacts with the OS. Whether I'm optimizing SEO for an EdTech marketplace or managing memory in a custom CLI tool, my goal is always the same: speed, type-safety, and absolute reproducibility. Even though I am currently focusing on system programming, I can also handle wherever the typescript touches.
 ## Professional Experience
-### Frontend Consultant [Arsari](arsari.app)
+### Frontend Consultant [Arsari](https://arsari.app)
 (April 2022 - Present)
 - Frontend Architecture: Leading the development of the core user interface using **NuxtJS** and **VueJS**, focusing on scalability and user experience.
 - Product Iteration: Translating high-level business goals into functional technical requirements in an agile, fast-paced environment.
