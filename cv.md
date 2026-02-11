@@ -11,20 +11,26 @@ Full Stack Engineer with a Systems Mindset I build high-level web applications w
 <br/>
 
 ## Professional Experience
-### Frontend Consultant [Arsari](https://arsari.app)
+### Frontend Consultant ([Arsari](https://arsari.app))
 (April 2024 - Present)
 - Frontend Architecture: Leading the development of the core user interface using **NuxtJS** and **VueJS**, focusing on scalability and user experience.
 - Product Iteration: Translating high-level business goals into functional technical requirements in an agile, fast-paced environment.
 - Scalability at best, type safe components, custom hooks, composables and improve SEO
-- centralized state management with NuxtJS's built-in composables
-- improve maintainability with **functional programming** such as **pure functions** and **immutable data**
-- improve performance by **SSR** and NuxtJS's best practice caching
+- Centralized state management with NuxtJS's built-in composables
+- Improve maintainability with **functional programming** such as **pure functions** and **immutable data**
+- Improve performance by **SSR** and NuxtJS's best practice caching
 - Internationalization (i18n): Developed a seamless multi-language toggle (English/Burmese) using `@nuxtjs/i18n`.
-- official website link: [https://arsari.app](https://arsari.app)
+- Official website link: [https://arsari.app](https://arsari.app)
+
+<br/>
+<br/>
+<br/>
+<br/>
+
 ## Projects
 ### Password Strength Auditor (released [v1.1.1](https://github.com/meowveloper/psa/releases)) [(psa)](https://github.com/meowveloper/psa.git)
 - PSA is a high-performance, cross-platform command-line tool designed for auditing password strength. Written in Zig(0.15.2), it leverages **manual memory management** and **zero-allocation optimization** to deliver maximum speed.
-- Features
+- Features:
     - **Dictionary** Attack: High-speed wordlist checking with optimized file I/O.
     - **Brute-Force** Attack: Recursive character combination generation with interactive configuration.
     - Audit Mode: Batch processing of multiple hashes with automated security scoring and reporting.
@@ -33,7 +39,7 @@ Full Stack Engineer with a Systems Mindset I build high-level web applications w
 - github link: [https://github.com/meowveloper/psa.git](https://github.com/meowveloper/psa.git)
 ### meowmux (released [v1.1.1](https://github.com/meowveloper/meowmux/releases)) [(meowmux)](https://github.com/meowveloper/meowmux.git)
 - Meowmux is a lightweight, TUI-based CLI project manager written in Zig (0.15.2). It simplifies workflow by allowing you to quickly manage and switch between projects, automatically launching them in tmux sessions.
-- Features
+- Features:
     - Interactive **TUI**: Navigate your project list with ease using **Vim-style** keys (j/k) or arrow keys implemented with **self-written** terminal cleaning and UI logic **without any external libraries**.
     - Project Management: Add, Edit, and Delete projects directly from the interface.
     - Tmux Integration: **Automatically creates or attaches** to a named tmux session for the selected project.
@@ -42,12 +48,12 @@ Full Stack Engineer with a Systems Mindset I build high-level web applications w
 - github link: [https://github.com/meowveloper/meowmux.git](https://github.com/meowveloper/meowmux.git)
 ### meowkey (still in progress)
 - Meowkey is a lightweight background process for Linux, written in **Zig (0.15.2)**, designed to generate mechanical keyboard sounds in real-time as you type.
-- Core Objectives
+- Core Objectives:
     - **Zero Latency:** Minimize the delay between physical key presses and audio feedback.
     - **Global Input Capture:** Utilize the Linux Input Subsystem (`/dev/input/event*`) to intercept keystrokes regardless of which window is active.
     - **Low Resource Usage:** Leverage Zig's efficiency to ensure the process remains unnoticeable in the background.
     - **ALSA Integration:** Direct interfacing with the Advanced Linux Sound Architecture for high-performance audio playback.
-- Technical Architecture
+- Technical Architecture:
     1. **Input Listener**: The application will read from one or more `/dev/input/event*` devices. It filters for `EV_KEY` events to detect `KEY_DOWN` transitions.
     2. **Audio Engine**: A low-latency buffer management system using ALSA.
 ## DevOps & Developer Experience
