@@ -1,7 +1,7 @@
 # Zwe Khant Aung (meowveloper)
-> TypeScript, Zig, Nix, Linux
-> Full Stack Developer & Systems Enthusiast
-> Bangkok, Thailand | +66822918935 | meowveloper.dev@gmail.com
+> TypeScript, Zig, Nix, Linux<br/>
+> Full Stack Developer & Systems Enthusiast<br/>
+> Bangkok, Thailand | +66822918935 | meowveloper.dev@gmail.com<br/>
 > Github: [meowveloper](github.com/meowveloper) 
 
 ## About Me
