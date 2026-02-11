@@ -12,7 +12,7 @@ Full Stack Engineer with a Systems Mindset I build high-level web applications w
 
 ## Professional Experience
 ### Frontend Consultant [Arsari](https://arsari.app)
-(April 2022 - Present)
+(April 2024 - Present)
 - Frontend Architecture: Leading the development of the core user interface using **NuxtJS** and **VueJS**, focusing on scalability and user experience.
 - Product Iteration: Translating high-level business goals into functional technical requirements in an agile, fast-paced environment.
 - Scalability at best, type safe components, custom hooks, composables and improve SEO
