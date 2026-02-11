@@ -5,7 +5,10 @@
 > Github: [meowveloper](https://github.com/meowveloper) 
 
 ## About Me
-Full Stack Engineer with a Systems Mindset I build high-level web applications with **NuxtJS** and **TypeScript**, while exploring low-level performance with Zig. I don’t just use frameworks; I care about how software interacts with the OS. Whether I'm optimizing SEO for an EdTech marketplace or managing memory in a custom CLI tool, my goal is always the same: speed, type-safety, and absolute reproducibility. Even though I am currently focusing on system programming, I can also handle wherever the typescript touches.
+<div style="text-align: justify;">
+Full Stack Engineer with a Systems Mindset I build high-level web applications with **NuxtJS** and **TypeScript**, while exploring low-level performance with Zig. I do not just use frameworks; I care about how software interacts with the OS. Whether I'm optimizing SEO for an EdTech marketplace or managing memory in a custom CLI tool, my goal is always the same: speed, type-safety, and absolute reproducibility. Even though I am currently focusing on system programming, I can also handle wherever the typescript touches.
+</div>
+
 ## Professional Experience
 ### Frontend Consultant [Arsari](https://arsari.app)
 (April 2022 - Present)
