@@ -50,6 +50,6 @@ Full Stack Engineer with a Systems Mindset I build high-level web applications w
 * **Reproducible Environments:** Expert in **Nix/NixOS** (daily driver) and **Flakes** for creating zero-latency development shells (`nix develop`).
 * **Environment Parity:** Replaced bloated Docker-based local workflows with native, deterministic Nix environments, reducing build times by 30% and local resource overhead.
 * **Infrastructure as Code:** Declaratively manage system-wide configurations, ensuring consistent setups across multiple machines.
-
+> markdown version of the CV can be found [here](https://github.com/meowveloper/meowveloper/blob/master/cv.md).
 
 
