@@ -1,8 +1,8 @@
 # Zwe Khant Aung (meowveloper)
 > TypeScript, Zig, Nix, Linux
-Full Stack Developer & Systems Enthusiast
-Bangkok, Thailand | +66822918935 | meowveloper.dev@gmail.com
-Github: [meowveloper](github.com/meowveloper) 
+> Full Stack Developer & Systems Enthusiast
+> Bangkok, Thailand | +66822918935 | meowveloper.dev@gmail.com
+> Github: [meowveloper](github.com/meowveloper) 
 
 ## About Me
 Full Stack Engineer with a Systems Mindset I build high-level web applications with **NuxtJS** and **TypeScript**, while exploring low-level performance with Zig. I don’t just use frameworks; I care about how software interacts with the OS. Whether I'm optimizing SEO for an EdTech marketplace or managing memory in a custom CLI tool, my goal is always the same: speed, type-safety, and absolute reproducibility. Even though I am currently focusing on system programming, I can also handle wherever the typescript touches.
@@ -50,6 +50,6 @@ Full Stack Engineer with a Systems Mindset I build high-level web applications w
 * **Reproducible Environments:** Expert in **Nix/NixOS** (daily driver) and **Flakes** for creating zero-latency development shells (`nix develop`).
 * **Environment Parity:** Replaced bloated Docker-based local workflows with native, deterministic Nix environments, reducing build times by 30% and local resource overhead.
 * **Infrastructure as Code:** Declaratively manage system-wide configurations, ensuring consistent setups across multiple machines.
-> markdown version of the CV can be found [here](https://github.com/meowveloper/meowveloper/blob/master/cv.md).
+> markdown version of this CV can be found [here](https://github.com/meowveloper/meowveloper/blob/master/cv.md).
 
 
