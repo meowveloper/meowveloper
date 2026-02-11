@@ -19,7 +19,7 @@ Full Stack Engineer with a Systems Mindset I build high-level web applications w
 - centralized state management with NuxtJS's built-in composables
 - improve maintainability with **functional programming** such as **pure functions** and **immutable data**
 - improve performance by **SSR** and NuxtJS's best practice caching
-- Internationalization (i18n): Developed a seamless multi-language toggle (English/Burmese) using `@nuxtjs/i18n`, facilitating the platform’s expansion into global markets.
+- Internationalization (i18n): Developed a seamless multi-language toggle (English/Burmese) using `@nuxtjs/i18n`.
 - official website link: [https://arsari.app](https://arsari.app)
 ## Projects
 ### Password Strength Auditor (released [v1.1.1](https://github.com/meowveloper/psa/releases)) [(psa)](https://github.com/meowveloper/psa.git)
@@ -55,5 +55,3 @@ Full Stack Engineer with a Systems Mindset I build high-level web applications w
 * **Environment Parity:** Replaced bloated Docker-based local workflows with native, deterministic Nix environments, reducing build times by 30% and local resource overhead.
 * **Infrastructure as Code:** Declaratively manage system-wide configurations, ensuring consistent setups across multiple machines.
 > markdown version of this CV can be found [here](https://github.com/meowveloper/meowveloper/blob/master/cv.md).
-
-
