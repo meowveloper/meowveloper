@@ -2,7 +2,7 @@
 
 **frontend consultant by day // zig & nix enthusiast by night**
 
-I build things that are fast, type-safe, and occasionally make mechanical keyboard noises. I live in the terminal and believe that if you can't declare it in a Nix flake, it doesn't exist.
+I build things that are fast, type-safe, and occasionally make mechanical keyboard noises.
 
 ---
 
