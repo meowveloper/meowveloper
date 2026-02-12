@@ -2,7 +2,8 @@
 > TypeScript, Zig, Nix, Linux<br/>
 > Full Stack Developer & Systems Enthusiast<br/>
 > Bangkok, Thailand | +66822918935 | meowveloper.dev@gmail.com<br/>
-> Github: [meowveloper](https://github.com/meowveloper) 
+> Github: [meowveloper](https://github.com/meowveloper)<br/>
+> Education: Bachelor of Computer Science, University of Sunderland (UK)
 
 ## About Me
 <div style="text-align: justify;">
