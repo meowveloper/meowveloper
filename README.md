@@ -22,8 +22,6 @@ I build things that are fast, type-safe, and occasionally make mechanical keyboa
 ### 📊 my rhythm
 ![snake github contribution grid](https://raw.githubusercontent.com/meowveloper/meowveloper/output/github-contribution-grid-snake-dark.svg)
 
-> "If it uses more than 900MB of RAM at idle, is it even an OS?"
-
 ---
 
 ### 📫 catch me here
