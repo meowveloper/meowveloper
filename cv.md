@@ -57,6 +57,7 @@ Full Stack Engineer with a Systems Mindset I build high-level web applications w
 - Technical Architecture:
     1. **Input Listener**: The application will read from one or more `/dev/input/event*` devices. It filters for `EV_KEY` events to detect `KEY_DOWN` transitions.
     2. **Audio Engine**: A low-latency buffer management system using ALSA.
+- github link: [https://github.com/meowveloper/meowkey.git](https://github.com/meowveloper/meowkey.git)
 ## DevOps & Developer Experience
 * **Reproducible Environments:** Expert in **Nix/NixOS** (daily driver) and **Flakes** for creating zero-latency development shells (`nix develop`).
 * **Environment Parity:** Replaced bloated Docker-based local workflows with native, deterministic Nix environments, reducing build times by 30% and local resource overhead.
