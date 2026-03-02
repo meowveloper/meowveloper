@@ -7,7 +7,7 @@
 
 ## About Me
 <div style="text-align: justify;">
-Full Stack Engineer with a Systems Mindset I build high-level web applications with <strong>NuxtJS</strong> and <strong>TypeScript</strong>, while exploring low-level performance with Zig. I do not just use frameworks; I care about how software interacts with the OS. Whether I'm optimizing SEO for an EdTech marketplace or managing memory in a custom CLI tool, my goal is always the same: speed, type-safety, and absolute reproducibility. Even though I am currently focusing on system programming, I can also handle wherever the typescript touches.
+Full Stack Engineer with a Systems Mindset I build high-level web applications with <strong>NuxtJS</strong>, <strong>React</strong> and <strong>TypeScript</strong>, while exploring low-level performance with Zig. Whether I'm optimizing SEO for an EdTech marketplace or managing memory in a custom CLI tool, my goal is always the same: speed, type-safety, and reproducibility. Even though I am currently focusing on improving my system programming knowledge, I can also handle wherever the typescript touches.
 </div>
 <br/>
 
@@ -29,7 +29,7 @@ Full Stack Engineer with a Systems Mindset I build high-level web applications w
 <br/>
 
 ## Projects
-### Password Strength Auditor (released [v1.1.1](https://github.com/meowveloper/psa/releases)) [(psa)](https://github.com/meowveloper/psa.git)
+### Password Strength Auditor [(psa)](https://github.com/meowveloper/psa.git)
 - PSA is a high-performance, cross-platform command-line tool designed for auditing password strength. Written in Zig(0.15.2), it leverages **manual memory management** and **zero-allocation optimization** to deliver maximum speed.
 - Features:
     - **Dictionary** Attack: High-speed wordlist checking with optimized file I/O.
@@ -38,7 +38,7 @@ Full Stack Engineer with a Systems Mindset I build high-level web applications w
     - **Cross-Platform**: Compiles natively for Linux, Windows, and macOS.
     - Zero Dependencies: Uses Zig's standard library for all cryptography (MD5) and I/O.
 - github link: [https://github.com/meowveloper/psa.git](https://github.com/meowveloper/psa.git)
-### meowmux (released [v1.1.1](https://github.com/meowveloper/meowmux/releases)) [(meowmux)](https://github.com/meowveloper/meowmux.git)
+### meowmux [(meowmux)](https://github.com/meowveloper/meowmux.git)
 - Meowmux is a lightweight, TUI-based CLI project manager written in Zig (0.15.2). It simplifies workflow by allowing you to quickly manage and switch between projects, automatically launching them in tmux sessions.
 - Features:
     - Interactive **TUI**: Navigate your project list with ease using **Vim-style** keys (j/k) or arrow keys implemented with **self-written** terminal cleaning and UI logic **without any external libraries**.
@@ -47,8 +47,8 @@ Full Stack Engineer with a Systems Mindset I build high-level web applications w
     - Path Autocomplete: Supports tab-completion for file paths when adding or editing projects with **self-written** file system iterating and search logic **without any external libraries**.
     - Config persistence: Safely stores your project list in `~/.config/meowmux/projects.json`.
 - github link: [https://github.com/meowveloper/meowmux.git](https://github.com/meowveloper/meowmux.git)
-### meowkey (still in progress)
-- Meowkey is a lightweight background process for Linux, written in **Zig (0.15.2)**, designed to generate mechanical keyboard sounds in real-time as you type.
+### meowkey [(meowkey)](https://github.com/meowveloper/meowkey.git)
+- Meowkey is a lightweight background process for Linux, written in **Zig**, designed to generate mechanical keyboard sounds in real-time as you type.
 - Core Objectives:
     - **Zero Latency:** Minimize the delay between physical key presses and audio feedback.
     - **Global Input Capture:** Utilize the Linux Input Subsystem (`/dev/input/event*`) to intercept keystrokes regardless of which window is active.
@@ -62,4 +62,3 @@ Full Stack Engineer with a Systems Mindset I build high-level web applications w
 * **Reproducible Environments:** Expert in **Nix/NixOS** (daily driver) and **Flakes** for creating zero-latency development shells (`nix develop`).
 * **Environment Parity:** Replaced bloated Docker-based local workflows with native, deterministic Nix environments, reducing build times by 30% and local resource overhead.
 * **Infrastructure as Code:** Declaratively manage system-wide configurations, ensuring consistent setups across multiple machines.
-> markdown version of this CV can be found [here](https://github.com/meowveloper/meowveloper/blob/master/cv.md).
