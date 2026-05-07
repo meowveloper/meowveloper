@@ -3,7 +3,8 @@
 > Full Stack Developer & Systems Enthusiast<br/>
 > Bangkok, Thailand | +66822918935 | meowveloper.dev@gmail.com<br/>
 > Github: [meowveloper](https://github.com/meowveloper)<br/>
-> Education: Bachelor of Computer Science, University of Sunderland (UK)
+> Education: Bachelor of Computer Science, University of Sunderland (UK)<br/>
+> Portfolio: [meowveloper](https://unbound-ink.vercel.app/p/meow)
 
 ## About Me
 <div style="text-align: justify;">
@@ -27,9 +28,25 @@ Developed and architected the frontend of Arsari, a comprehensive educator-learn
 <br/>
 <div style="page-break-after: always;"></div>
 
+### Lead Full-Stack Developer | [Unbound (The Independent Ink)](https://unbound-ink.vercel.app) December 2025 – May 2026
+Architected and developed Unbound, a high-performance digital publishing and professional reputation platform built with Next.js 16 (App Router), React 19, and Convex (Serverless).
+- Security & Authentication: Engineered a custom authentication system from scratch using PBKDF2 password hashing and secure session management via httpOnly cookies, avoiding third-party provider dependencies.
+- Reputation Engine: Developed a comprehensive "Proof of Work" ecosystem, including professional portfolios (/p/[username]) with Bento Grid layouts and a verifiable badge system linked to professional artifacts and case studies.
+- Content Systems: Integrated the Tiptap rich-text editor with automated draft synchronization, supporting multi-part "Serial" stories and "Single" document formats (Articles/Manifestos) with optimized reader interfaces.
+- Advanced Feed Architecture: Optimized social discovery by implementing a Global Index + Memory Filter strategy for the activity feed, enabling high-performance dual-stream merging of followed users and "Official" platform announcements.
+- Monetization & Analytics: Launched "Phase 1" of a non-intrusive monetization model based on Usage Time, utilizing the Visibility API for client-side heartbeat tracking and background aggregate processing.
+- System Reliability: Established a 3-tier testing infrastructure (Backend, Vitest/RTL), achieving a 100% pass rate across 140+ tests covering declarative effect systems and social graph logic.
+- SEO & AISO: Implemented Artificial Intelligence Search Optimization (AISO) and structured data using JSON-LD (Schema.org), dynamic sitemaps, and semantic HTML5 to maximize discoverability for both search engines and AI agents.
+- Backend Engineering: Hardened database integrity through a declarative Effect System for aggregates, robust cascading deletion background jobs, and strict Convex validator enforcement to prevent data injection.
+- Administrative Tooling: Built a secure Admin Control Center featuring real-time user search, badge governance workflows (reporting/revocation), and narrative management for verified credentials.
+- Official website link: [https://unbound-ink.vercel.app](https://unbound-ink.vercel.app)
+- My **portfolio** on Unbound: [meowveloper](https://unbound-ink.vercel.app/p/meow)
+<br/>
+<div style="page-break-after: always;"></div>
+
 ## Projects
 ### Password Strength Auditor [(psa)](https://github.com/meowveloper/psa.git)
-- PSA is a high-performance, cross-platform command-line tool designed for auditing password strength. Written in Zig(0.15.2), it leverages **manual memory management** and **zero-allocation optimization** to deliver maximum speed.
+- PSA is a high-performance, cross-platform command-line tool designed for auditing password strength. Written in Zig(0.15.2), it leverages **manual memory management** and **zero-allocation optimization** to deliver maximum speed. **This was written for my Computer Science Bachelor Degree**
 - Features:
     - **Dictionary** Attack: High-speed wordlist checking with optimized file I/O.
     - **Brute-Force** Attack: Recursive character combination generation with interactive configuration.
