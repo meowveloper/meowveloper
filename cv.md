@@ -12,21 +12,20 @@ Full Stack Engineer with a Systems Mindset I build high-level web applications w
 <br/>
 
 ## Professional Experience
-### Frontend Consultant ([Arsari](https://arsari.app))
-(April 2024 - Present)
-- Frontend Architecture: Leading the development of the core user interface using **NuxtJS** and **VueJS**, focusing on scalability and user experience.
-- Product Iteration: Translating high-level business goals into functional technical requirements in an agile, fast-paced environment.
-- Scalability at best, type safe components, custom hooks, composables and improve SEO
-- Centralized state management with NuxtJS's built-in composables
-- Improve maintainability with **functional programming** such as **pure functions** and **immutable data**
-- Improve performance by **SSR** and NuxtJS's best practice caching
-- Internationalization (i18n): Developed a seamless multi-language toggle (English/Burmese) using `@nuxtjs/i18n`.
+### Frontend Engineer | September 2024 – April 2026 ([Arsari](https://arsari.app))
+Developed and architected the frontend of Arsari, a comprehensive educator-learner platform, using Nuxt.js, Vue 3, and TypeScript. Spearheaded the transition from a basic landing page to a complex, real-time education ecosystem.
+- Real-time Communication: Built a robust chat system and live support feature using Laravel Echo and Pusher, implementing real-time online status tracking, heartbeat mechanisms, and automated message grouping.
+- Complex State Management: Engineered a sophisticated educator profile management system with a draft-save mechanism, shared state between view/edit modes, and dynamic data caching using Nuxt middleware.
+- Onboarding & UI/UX: Designed and implemented a multi-step educator onboarding process featuring a real-time profile completion progress bar and complex class creation forms.
+- Scheduling Systems: Integrated and customized FullCalendar to handle educator availability, featuring complex UTC-to-local timezone synchronization and dynamic time-slot management.
+- Search & SEO Optimization: Developed SEO-friendly dynamic routing for course discovery and integrated metadata management, significantly enhancing the platform's visibility for educators and courses.
+- Analytics & Monitoring: Led the integration of a full observability and marketing suite, including Sentry for error tracking, Posthog for product analytics, Meta Pixel, and Google Analytics (Gtag).
+- Internationalization (i18n): Managed full localization for English and Burmese (MM) markets, including specialized currency formatting, locale-aware category filtering, and RTL-compatible UI adjustments.
+- Security & Authentication: Implemented secure OTP (One-Time Password) authentication flows and integrated Social Auth (Google/Facebook) while maintaining strict environment variable security.
+- DevOps & Tooling: Established consistent development environments using Docker Dev Containers and optimized build processes by migrating credentials to server-side runtime configurations.
 - Official website link: [https://arsari.app](https://arsari.app)
-
 <br/>
-<br/>
-<br/>
-<br/>
+<div style="page-break-after: always;"></div>
 
 ## Projects
 ### Password Strength Auditor [(psa)](https://github.com/meowveloper/psa.git)
