@@ -1,19 +1,20 @@
 # 🐧 hi, i'm zwe khant aung (meowveloper)
 
-**frontend consultant by day // zig & nix enthusiast by night**
+**web dev by day // zig & nix enthusiast by night**
 
-I build things that are fast, type-safe, and occasionally make mechanical keyboard noises.
+I build things that are fast, type-safe, and occasionally make mechanical keyboard noises. <br/>
+my portfolio: [meowveloper](https://unbound-ink.vercel.app/p/meow)
 
 ---
 
 ### 🛠️ what i'm currently cooking
-* **[arsari.app](https://arsari.app):** scaling an edtech marketplace with Nuxt 3.
+* **[unbound](https://unbound-ink.vercel.app):** didn't want to make a one-landing-page portfolio with my uggy face in hero section, so built a whole platform.
 * **[psa](https://github.com/meowveloper/psa):** making password auditing fast with Zig.
 * **[meowmux](https://github.com/meowveloper/meowmux)**: A zero-dependency, TUI project manager written in Zig for the tmux power user.
 * **[meowkey](https://github.com/meowveloper/meowkey):** adding tactile audio to my linux setup.
 
 ### ❄️ my ecosystem
-* **OS:** [NixOS](https://github.com/meowveloper/nix-config) (Hyperland / Wayland)
+* **OS:** [NixOS](https://github.com/meowveloper/nix-config)
 * **Editor:** Neovim (the only way to live)
 * **Stack:** TypeScript, Zig, Nix
 
