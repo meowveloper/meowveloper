@@ -54,15 +54,6 @@ Architected and developed Unbound, a high-performance digital publishing and pro
     - **Cross-Platform**: Compiles natively for Linux, Windows, and macOS.
     - Zero Dependencies: Uses Zig's standard library for all cryptography (MD5) and I/O.
 - github link: [https://github.com/meowveloper/psa.git](https://github.com/meowveloper/psa.git)
-### meowmux [(meowmux)](https://github.com/meowveloper/meowmux.git)
-- Meowmux is a lightweight, TUI-based CLI project manager written in Zig (0.15.2). It simplifies workflow by allowing you to quickly manage and switch between projects, automatically launching them in tmux sessions.
-- Features:
-    - Interactive **TUI**: Navigate your project list with ease using **Vim-style** keys (j/k) or arrow keys implemented with **self-written** terminal cleaning and UI logic **without any external libraries**.
-    - Project Management: Add, Edit, and Delete projects directly from the interface.
-    - Tmux Integration: **Automatically creates or attaches** to a named tmux session for the selected project.
-    - Path Autocomplete: Supports tab-completion for file paths when adding or editing projects with **self-written** file system iterating and search logic **without any external libraries**.
-    - Config persistence: Safely stores your project list in `~/.config/meowmux/projects.json`.
-- github link: [https://github.com/meowveloper/meowmux.git](https://github.com/meowveloper/meowmux.git)
 ### meowkey [(meowkey)](https://github.com/meowveloper/meowkey.git)
 - Meowkey is a lightweight background process for Linux, written in **Zig**, designed to generate mechanical keyboard sounds in real-time as you type.
 - Core Objectives:
